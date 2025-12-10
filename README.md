@@ -20,9 +20,9 @@
 ---
 
 ## 🛠 スキルスタック
-| フロントエンド | バックエンド | その他 |
-|----------------|--------------|--------|
-| React  TypeScript | Supabase / Firebase / Node.js | Git / Figma / Vercel / Docker |
+| フロントエンド | バックエンド | 試験 | その他 |
+|----------------|--------------|--------|--------|
+| React  TypeScript | Supabase / Firebase / Node.js | Python | Git / Figma / Vercel / Docker |
 
 ---
 
