@@ -13,9 +13,9 @@
 
 ## 自己紹介
 -  立命館大学 電子情報工学科 3年生  
--  フロントエンド中心に開発（React / Next.js / TypeScript / Supabase / firebase / Hono）  
+-  JS/TS中心に開発（React / Next.js / Supabase / firebase / Express）  
 -  UI/UX・設計・プロダクト改善にも強い関心があります  
--  目標：**常に技術を学び続けるトップエンジニアになる！**
+-  目標：**常に技術を学び続けるエンジニアになる！**
 
 ---
 
@@ -27,11 +27,11 @@
 ---
 
 ##  最近取り組んでいること
--  TypeScriptの言語学習
--  Supabase + TypeScriptでの認証・DB操作の実践  
--  個人アプリのUIブラッシュアップとリファクタリング
--  SQL,DBやHonoの学習
--  React公式ドキュメント読み
+-  Oh!ENプロジェクトの開発
+-  Cookie認証
+-  
+
+
 
 ---
 
